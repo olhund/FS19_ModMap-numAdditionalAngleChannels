@@ -1,3 +1,4 @@
+-- ls19 ready
 ModMap = {} 
 local ModMap_mt = Class(ModMap, Mission00)
 
